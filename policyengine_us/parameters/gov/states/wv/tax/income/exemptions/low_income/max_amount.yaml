@@ -1,14 +1,16 @@
 description: West Virginia provides an income tax exemption of this value for tax units with no exemptions claimed.
 
 metadata:
-  period: year
   unit: currency-USD
-  label: West Virginia personal exemption
+  period: year
+  breakdown:
+  - filing_status
+  label: West Virginia personal exemption amount
   reference:
   - title: West Virginia Personal Income Tax Forms And Instructions 2022
     href: https://tax.wv.gov/Documents/PIT/2022/PersonalIncomeTaxFormsAndInstructions.2022.pdf#Page=27
   - title: West Virginia Personal Income Tax Forms And Instructions 2021
-    href: https://tax.wv.gov/Documents/TaxForms/2021/it140.pdf#Page=23
+    href: https://tax.wv.gov/Documents/TaxForms/2021/it140.pdf#Page=20
   - title: Code of West Virginia §11-21-16
     href: https://code.wvlegislature.gov/11-21-10/
 
