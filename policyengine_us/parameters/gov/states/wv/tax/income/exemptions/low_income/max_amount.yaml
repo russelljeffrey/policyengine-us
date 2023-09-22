@@ -5,7 +5,7 @@ metadata:
   period: year
   breakdown:
   - filing_status
-  label: West Virginia personal exemption amount
+  label: West Virginia low income exclusion max amount
   reference:
   - title: West Virginia Personal Income Tax Forms And Instructions 2022
     href: https://tax.wv.gov/Documents/PIT/2022/PersonalIncomeTaxFormsAndInstructions.2022.pdf#Page=27
